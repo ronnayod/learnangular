@@ -1,0 +1,4 @@
+// open whit browser
+ng serve --open
+// สร้าง component ชื่อ navbar
+# ng generate component navbar
